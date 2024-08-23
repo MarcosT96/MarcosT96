@@ -10,7 +10,7 @@ Besides coding, I enjoy playing soccer ⚽, going for runs 🏃‍♂️, and da
 const marcosTomassi = {
   pronouns: "he" | "him",
   code: [PHP, Typescript, SQL, HTML],
-  tools: [React, WordPress, Laravel, Docker],
+  tools: [NestJS, WordPress, Laravel, Docker],
   architecture: ["microservices", "scalable systems"]
 }
 ```

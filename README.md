@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi There, I'm Marcos! 👋
 
-<!--
-**MarcosT96/MarcosT96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Senior Backend Developer 🚀 from Rafaela, Argentina 🇦🇷
 
-Here are some ideas to get you started:
+I have a strong passion for creating scalable, efficient, and optimized solutions that meet the highest standards of quality. My journey has been driven by a continuous learning mindset, always aiming to improve and deliver better products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Besides coding, I enjoy playing soccer ⚽, going for runs 🏃‍♂️, and dancing 💃.
+
+```javascript
+const marcosTomassi = {
+  pronouns: "he" | "him",
+  code: [PHP, Typescript, SQL, HTML],
+  tools: [React, WordPress, Laravel, Docker],
+  architecture: ["microservices", "scalable systems"]
+}
+```
+
+[![Linkedin: MarcosTomassi](https://img.shields.io/badge/-MarcosTomassi-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcostomassi/)](https://www.linkedin.com/in/marcostomassi)
+[![GitHub MarcosT96](https://img.shields.io/github/followers/MarcosT96?label=follow&style=social)](https://github.com/MarcosT96)
+[![Gmail MarcosTomassi](https://img.shields.io/badge/Gmail-marcostomassi%40gmail.com-success)](mailto:marcostomassi@gmail.com)

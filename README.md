@@ -1,6 +1,6 @@
 ## Hi There, I'm Marcos! 👋
 
-I'm a Senior Backend Developer 🚀 from Rafaela, Argentina 🇦🇷
+I'm a Senior Product Engineer 🚀 from Buenos Aires, Argentina 🇦🇷
 
 I have a strong passion for creating scalable, efficient, and optimized solutions that meet the highest standards of quality. My journey has been driven by a continuous learning mindset, always aiming to improve and deliver better products.
 
